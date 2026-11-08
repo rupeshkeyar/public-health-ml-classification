@@ -49,10 +49,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Application Banner Header
-st.markdown("## MACHINE LEARNING (S1-26_DSEZG565)")
-st.markdown("### ASSIGNMENT # 2")
+st.markdown("## MACHINE LEARNING (S1-26_DSEZG565) | ASSIGNMENT # 2")
 st.markdown('<p style="font-size: 20px; font-weight: 600; color: BLUE; margin-bottom: 0px;">RUPESH K R | 2025NS04125</p>', unsafe_allow_html=True)
-st.markdown('<hr>', unsafe_allow_html=True)
+
 col_header, col_status = st.columns([4, 1])
 with col_header:
     st.title("🩺 Public Health Risk Surveillance Portal")
