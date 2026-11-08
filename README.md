@@ -4,7 +4,7 @@
 Public health agencies require predictive modeling frameworks to analyze demographic, clinical, and environmental indicators for targeted interventions. This project implements five supervised machine learning models to classify **Vaccination Hesitancy** (`Yes` vs `No`) using public health surveillance data, enabling actionable decision support for healthcare resources.
 
 ## b. Dataset Description
-- **Source:** Kaggle Public Health Dataset (`public_health_surveillance_dataset.csv`)
+- **Source:** Kaggle Public Health Dataset (`public_health_surveillance_dataset.csv`) https://www.kaggle.com/datasets/datasetengineer/public-health-dataset
 - **Records:** 43,689 samples across 35 features.
 - **Key Features:** Patient Age, Gender, Ethnicity, Socioeconomic Status (SES), AQI, Humidity, Transmission Rate, Mortality Rate, Hospitalization Rate, Outbreak Status, and Infection Risk Level.
 - **Target Variable:** `Vaccination_Hesitancy` (Binary: `No` [69.9%], `Yes` [30.1%]).
@@ -12,7 +12,6 @@ Public health agencies require predictive modeling frameworks to analyze demogra
 ## c. GitHub Repository Link
 - **GitHub Repository:** `https://github.com/rupeshkeyar/public-health-ml-classification`
 - **StreamLit Link:** `https://public-health-ml-classification.streamlit.app/`
-
 
 ## d. Models Used & Comparison Table (Evaluated to 7 Decimal Places)
 
