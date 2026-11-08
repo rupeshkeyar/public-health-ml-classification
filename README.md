@@ -11,6 +11,7 @@ Public health agencies require predictive modeling frameworks to analyze demogra
 
 ## c. GitHub Repository Link
 - **GitHub Repository:** `https://github.com/rupeshkeyar/public-health-ml-classification`
+- **StreamLit Link:** `https://public-health-ml-classification.streamlit.app/`
 
 
 ## d. Models Used & Comparison Table (Evaluated to 7 Decimal Places)
