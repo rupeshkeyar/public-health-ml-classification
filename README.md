@@ -10,7 +10,7 @@ Public health agencies require predictive modeling frameworks to analyze demogra
 - **Target Variable:** `Vaccination_Hesitancy` (Binary: `No` [69.9%], `Yes` [30.1%]).
 
 ## c. GitHub Repository Link
-- **GitHub Repository:** `https://github.com/2025NS04125/public-health-ml-classification`
+- **GitHub Repository:** `https://github.com/rupeshkeyar/public-health-ml-classification`
 
 
 ## d. Models Used & Comparison Table (Evaluated to 7 Decimal Places)
